@@ -56,7 +56,7 @@
 | Emplacement | Plateformes | Cliquable ? | Priorité |
 |------------|-------------|-------------|----------|
 | Bio / Linktree | TikTok, YouTube, Instagram | Oui (via Linktree) | 🟡 Phase 2 (mois 3+) |
-| Description YouTube | YouTube | Oui (directement) | 🔴 Jour 1 |
+| Description YouTube | YouTube | Oui (directement) | 🟡 Phase 2 (mois 3+) |
 | Commentaires épinglés | TikTok, YouTube | Oui | 🟡 Après 1K followers |
 | Caption Instagram | Instagram | Non (mais copyable) | 🟢 |
 

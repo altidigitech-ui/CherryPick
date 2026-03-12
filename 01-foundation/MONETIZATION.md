@@ -679,4 +679,4 @@ La stratégie multi-plateforme modifie significativement les projections de reve
 
 ---
 
-*La monétisation est un système à construire progressivement. Les liens affiliés se placent dès le jour 1. Le cross-posting sur 3 plateformes démarre dès le jour 1. Les brand deals arrivent avec l'audience (et leur prix augmente avec le nombre de plateformes). Le Creator Rewards vient avec l'éligibilité. Le funnel SaaS vient avec la maturité. Chaque étape alimente la suivante. Chaque plateforme alimente les autres.*
+*La monétisation est un système à construire progressivement. Le cross-posting sur 3 plateformes démarre dès le jour 1. Les liens affiliés se placent en Phase 2 (mois 3+). Les brand deals arrivent avec l'audience (et leur prix augmente avec le nombre de plateformes). Le Creator Rewards vient avec l'éligibilité. Le funnel SaaS vient avec la maturité. Chaque étape alimente la suivante. Chaque plateforme alimente les autres.*
